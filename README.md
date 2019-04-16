@@ -10,3 +10,5 @@
 
 [Stanford 224D NLP](https://cs224d.stanford.edu/)  
 
+[Deep Learning Book by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)  
+
